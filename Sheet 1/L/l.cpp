@@ -7,13 +7,12 @@ int main(){
     cin >> a >> b;
     cin >> d >> d;
     
-    if(strcmp(b, d) == 0) 
+    if(strcmp(b, d) == 0)
     {
-        cout << "ARE Brothers" << endl;
+        printf("ARE Brothers\n");
     }
-    else 
-    {
-        cout << "NOT" << endl;
+    else{
+        printf("NOT\n");
     }
 
     return 0;

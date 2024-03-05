@@ -6,12 +6,11 @@ int main() {
     scanf("%s %s", a, b);
     scanf("%s %s", c, d);
     
-    if(strcmp(b, d) == 0) 
+    if(strcmp(b, d) == 0)
     {
         printf("ARE Brothers\n");
     }
-    else 
-    {
+    else{
         printf("NOT\n");
     }
 
