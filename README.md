@@ -1,0 +1,2 @@
+# [What's App Support Group for this course](https://chat.whatsapp.com/LPVvR8N5lyA3S4gVq6WDPt) || [YouTube Playlist](https://www.youtube.com/playlist?list=PLeqnvPK4PpyXUqshx32M_crX0m01wh_6M)
+## Our goal is to solve all the problems of ICPC Assiut University Sheets with video tutorials. Click on the [link](https://sites.google.com/view/code-with-redoy/courses/icpc-assiut-university-sheet) to see the tutorials.
